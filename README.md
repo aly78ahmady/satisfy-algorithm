@@ -33,3 +33,9 @@ First line must be "yes" if the problem is satisfiable, else "no" and program st
 If "yes" was the first line, following lines must be the seating arrangement. Each line must has two integers first one as guest's number, and the second one as table's number.
 
 Above example, is a solver for input example. It shows: Problem has answer. guest {1} must seat at the table {2}. guest {2} must seat at the table {2}. guest {3} must seat at the table {1}. guest {4} must seat at the table {1}.
+
+## Solving
+
+We have 5 input and 5 output files samples in the "test" folder.
+Program must take each input sample to make exactly same output as the input sample's output.
+Testcase, tests program with 5 samples in the "test" folder.
